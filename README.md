@@ -11,7 +11,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7243985866350583808/
 
 ## Zscaler Internet Access (ZIA)  with Microsoft Sentinel
 
-Error - 'AuthorizationFailed' code on Action 'Microsoft.Resources/deploymentStacks/validate/action'
+Error - 'AuthorizationFailed' code on Action 'Microsoft.Resources/deploymentStacks/validate/action' while running the Bicep template
 
 https://www.linkedin.com/feed/update/urn:li:activity:7328303986929762305/
    
